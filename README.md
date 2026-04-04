@@ -17,7 +17,9 @@ By 1961, MIT had acquired the [DEC](https://en.wikipedia.org/wiki/Digital_Equipm
 
 <br>
 
-![Spacewar!-PDP-1](https://github.com/user-attachments/assets/b4efab50-cb0a-4462-a394-ab9edc2344c5)
+### The PDP-1 radar screen:
+
+![Spacewar!-PDP-1](https://github.com/user-attachments/assets/3c89634f-36a7-4420-be76-e1321ad8f3ec)
 
 </br>
 

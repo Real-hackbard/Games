@@ -38,7 +38,13 @@ The PDP-1 (Programmed Data Processor-1) is the first computer in Digital Equipme
 
 By 1961, MIT had acquired the DEC PDP-1 minicomputer, the successor to the TX-0, which also used a vector display system. The system's comparatively small size and processing speed meant that, like with the TX-0, the university allowed its undergraduate students and employees to write programs for the computer which were not directly academically related whenever it was not in use. In 1961–62, Harvard and MIT employees Martin Graetz, Steve Russell, and Wayne Wiitanen created the game Spacewar! on the PDP-1.
 
+</br>
 
+![Game Over](https://github.com/user-attachments/assets/69dd15db-b1b3-4072-aab6-0eea1cd6f8d9)
+
+</br>
+
+# Update list:
 
 
 

@@ -10,7 +10,7 @@
 
 </br>
 
-
+Mainframe and minicomputer games are a precursor to personal computer games. Home computer games became popular following the [video game crash of 1983](https://en.wikipedia.org/wiki/Video_game_crash_of_1983). In the 1990s, PC games lost mass market traction to [console games](https://en.wikipedia.org/wiki/Video_game_console) on the fifth generation such as the Sega Saturn, Nintendo 64 and PlayStation. They are enjoying a resurgence in popularity since the mid-2000s through digital distribution on online service providers. Personal computers as well as general computer software are considered synonymous with IBM PC compatible systems; while mobile devices – smartphones and tablets, such as those running on Android or iOS platforms – are also PCs in the general sense as opposed to console or [arcade machine](https://en.wikipedia.org/wiki/Arcade_cabinet). Historically, it also included games on systems from Apple Computer, Atari Corporation, Commodore International and others. Microsoft Windows utilizing Direct3D become the most popular operating system for PC games in the 2000s. Games utilizing 3D graphics generally require a form of graphics processing unit, and PC games have been a major influencing factor for the development and marketing of graphics cards. [Emulators](https://en.wikipedia.org/wiki/Emulator) are able to play games developed for other platforms.
 
 
 

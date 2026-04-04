@@ -15,5 +15,23 @@ Mainframe and minicomputer games are a precursor to personal computer games. Hom
 # Which was the first game?
 By 1961, MIT had acquired the [DEC](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation) [PDP-1](https://en.wikipedia.org/wiki/PDP-1) minicomputer, the successor to the TX-0, which also used a vector display system. The system's comparatively small size and processing speed meant that, like with the TX-0, the university allowed its undergraduate students and employees to write programs for the computer which were not directly academically related whenever it was not in use. In 1961–62, Harvard and MIT employees Martin Graetz, [Steve Russell](https://en.wikipedia.org/wiki/Steve_Russell_(computer_scientist)), and Wayne Wiitanen created the game [Spacewar!](https://en.wikipedia.org/wiki/Spacewar!) on the PDP-1, inspired by [science fiction books](https://en.wikipedia.org/wiki/Science_fiction) such as the Lensman series. The game was copied to several of the early minicomputer installations in American academic institutions, making it potentially the first video game to be available outside a single research institute.
 
+<(br>
+
+![Spacewar!-PDP-1](https://github.com/user-attachments/assets/b4efab50-cb0a-4462-a394-ab9edc2344c5)
+
+</br>
+
+The two-player game has the players engaged in a dogfight between two spaceships set against the backdrop of a randomly generated background starfield. The game was developed to meet three precepts: to use as much of the computer's resources as possible, to be consistently interesting and therefore have every run be different, and to be entertaining and therefore a game. The game was a multiplayer game because the computer had no resources left over to handle controlling the other ship. After the game's initial development, members of the TMRC worked to improve the game, adding an accurate starfield and a gravitational body, and spread it to the couple dozen other institutions with a PDP-1, a process which continued over the next few years. As the computer was uncomfortable to use for extended periods of time, Kotok and Saunders created a detached control device, essentially an early gamepad. Spacewar! was reportedly used as a smoke test by DEC technicians on new PDP-1 systems before shipping, since it was the only available program that exercised every aspect of the hardware. Although the game was widespread for the era, it was still very limited in its direct reach: the PDP-1 was priced at US$120,000 (equivalent to $1,300,000 in 2025) and only 55 were ever sold, many without a monitor, which prohibited Spacewar! or any game of the time from reaching beyond a narrow, academic audience. Russell has been quoted as saying that the aspect of the game that he was most pleased with was the number of other programmers it inspired to write their own games.
+
+
+
+
+
+
+
+
+
+
+
 
 

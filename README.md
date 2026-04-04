@@ -30,7 +30,13 @@ The two-player game has the players engaged in a dogfight between two spaceships
 # Original replica of the workshop from 1961:
 The PDP-1 (Programmed Data Processor-1) is the first computer in Digital Equipment Corporation's [PDP](https://en.wikipedia.org/wiki/Programmed_Data_Processor) series and was first produced in 1959. It is known for being the most important computer in the creation of hacker culture at the [Massachusetts Institute](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology) of Technology, Bolt, Beranek and Newman, and elsewhere. The PDP-1 is the original hardware for one of the first video games, Steve Russell's 1962 game Spacewar!.
 
+</br>
 
+![Demo_Lab_at_Mountain_View&#39;s_Computer_History_Museum](https://github.com/user-attachments/assets/da216b8c-5787-42d1-b5a2-d2d2471d3a5b)
+
+</br>
+
+By 1961, MIT had acquired the DEC PDP-1 minicomputer, the successor to the TX-0, which also used a vector display system. The system's comparatively small size and processing speed meant that, like with the TX-0, the university allowed its undergraduate students and employees to write programs for the computer which were not directly academically related whenever it was not in use. In 1961–62, Harvard and MIT employees Martin Graetz, Steve Russell, and Wayne Wiitanen created the game Spacewar! on the PDP-1.
 
 
 

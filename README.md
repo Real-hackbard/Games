@@ -15,7 +15,7 @@ Mainframe and minicomputer games are a precursor to personal computer games. Hom
 # Which was the first game?
 By 1961, MIT had acquired the [DEC](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation) [PDP-1](https://en.wikipedia.org/wiki/PDP-1) minicomputer, the successor to the TX-0, which also used a vector display system. The system's comparatively small size and processing speed meant that, like with the TX-0, the university allowed its undergraduate students and employees to write programs for the computer which were not directly academically related whenever it was not in use. In 1961–62, Harvard and MIT employees Martin Graetz, [Steve Russell](https://en.wikipedia.org/wiki/Steve_Russell_(computer_scientist)), and Wayne Wiitanen created the game [Spacewar!](https://en.wikipedia.org/wiki/Spacewar!) on the PDP-1, inspired by [science fiction books](https://en.wikipedia.org/wiki/Science_fiction) such as the Lensman series. The game was copied to several of the early minicomputer installations in American academic institutions, making it potentially the first video game to be available outside a single research institute.
 
-<(br>
+<br>
 
 ![Spacewar!-PDP-1](https://github.com/user-attachments/assets/b4efab50-cb0a-4462-a394-ab9edc2344c5)
 

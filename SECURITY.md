@@ -10,6 +10,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Digger |
 | 1.0.x   | :white_check_mark: Go |
 | 1.0.x   | :white_check_mark: illusion puzzle |
+| 1.0.x   | :white_check_mark: Advanced Solitair |
 
 ## Reporting a Vulnerability
 

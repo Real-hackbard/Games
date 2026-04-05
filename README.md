@@ -49,6 +49,7 @@ By 1961, MIT had acquired the DEC PDP-1 minicomputer, the successor to the TX-0,
 * [Go](https://github.com/Real-hackbard/Games/tree/main/Go)
 * [illusion puzzle](https://github.com/Real-hackbard/Games/tree/main/illusion%20puzzle)
 * [Advanced Solitair](https://github.com/Real-hackbard/Games/tree/main/Advanced%20Solitair)
+* [Puzzle Classic](https://github.com/Real-hackbard/Games/tree/main/Puzzle%20Classic)
 
 
 

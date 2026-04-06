@@ -13,6 +13,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Advanced Solitair |
 | 1.0.x   | :white_check_mark: Puzzle Classic |
 | 1.0.x   | :white_check_mark: Memory Cards |
+| 1.0.x   | :white_check_mark: Space Shooter |
 
 ## Reporting a Vulnerability
 

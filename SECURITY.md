@@ -16,6 +16,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Space Shooter |
 | 1.0.x   | :white_check_mark: Tilting Maze |
 | 1.0.x   | :white_check_mark: Jong |
+| 1.0.x   | :white_check_mark: Marbles |
 
 ## Reporting a Vulnerability
 

@@ -15,6 +15,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Memory Cards |
 | 1.0.x   | :white_check_mark: Space Shooter |
 | 1.0.x   | :white_check_mark: Tilting Maze |
+| 1.0.x   | :white_check_mark: Jong |
 
 ## Reporting a Vulnerability
 

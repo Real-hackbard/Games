@@ -55,6 +55,7 @@ By 1961, MIT had acquired the DEC PDP-1 minicomputer, the successor to the TX-0,
 * [Tilting Maze](https://github.com/Real-hackbard/Games/tree/main/Tilting%20Maze)
 * [Jong](https://github.com/Real-hackbard/Games/tree/main/Jong)
 * [Marbles](https://github.com/Real-hackbard/Games/tree/main/Marbles)
+* [Puc-Man](https://github.com/Real-hackbard/Games/tree/main/Puc-Man)
 
 
 

@@ -18,6 +18,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Jong |
 | 1.0.x   | :white_check_mark: Marbles |
 | 1.0.x   | :white_check_mark: Puc-Man |
+| 1.0.x   | :white_check_mark: Butterfly Shooter |
 
 ## Reporting a Vulnerability
 

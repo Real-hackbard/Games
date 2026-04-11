@@ -21,6 +21,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Butterfly Shooter |
 | 1.0.x   | :white_check_mark: Pong Classic |
 | 1.0.x   | :white_check_mark: Pac-Man Classic |
+| 1.0.x   | :white_check_mark: Asteroids |
 
 ## Reporting a Vulnerability
 

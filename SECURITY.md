@@ -24,6 +24,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Asteroids |
 | 1.0.x   | :white_check_mark: MacMahon Puzzle |
 | 1.0.x   | :white_check_mark: Lemmings Classic |
+| 1.0.x   | :white_check_mark: Checkers |
 
 ## Reporting a Vulnerability
 

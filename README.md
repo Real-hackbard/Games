@@ -63,6 +63,7 @@ By 1961, MIT had acquired the DEC PDP-1 minicomputer, the successor to the TX-0,
 * [MacMahon Puzzle](https://github.com/Real-hackbard/Games/tree/main/MacMahon%20Puzzle)
 * [Lemmings Classic](https://github.com/Real-hackbard/Games/tree/main/Lemmings%20Classic)
 * [Checkers](https://github.com/Real-hackbard/Games/tree/main/Checkers)
+* [Vexed-Puzzle](https://github.com/Real-hackbard/Games/tree/main/Vexed-Puzzle)
 
 
 

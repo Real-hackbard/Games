@@ -26,6 +26,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Lemmings Classic |
 | 1.0.x   | :white_check_mark: Checkers |
 | 1.0.x   | :white_check_mark: Vexed-Puzzle |
+| 1.0.x   | :white_check_mark: Tetris Classic |
 
 ## Reporting a Vulnerability
 

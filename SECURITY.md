@@ -28,6 +28,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Vexed-Puzzle |
 | 1.0.x   | :white_check_mark: Tetris Classic |
 | 1.0.x   | :white_check_mark: Pipe |
+| 1.0.x   | :white_check_mark: Connect Four 3D |
 
 ## Reporting a Vulnerability
 

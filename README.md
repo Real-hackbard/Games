@@ -67,6 +67,7 @@ By 1961, MIT had acquired the DEC PDP-1 minicomputer, the successor to the TX-0,
 * [Tetris Classic](https://github.com/Real-hackbard/Games/tree/main/Tetris%20Classic)
 * [Pipe](https://github.com/Real-hackbard/Games/tree/main/Pipe)
 * [Connect Four 3D](https://github.com/Real-hackbard/Games/tree/main/Connect%20Four%203D)
+* [Pentomino](https://github.com/Real-hackbard/Games/tree/main/Pentomino)
 
 
 

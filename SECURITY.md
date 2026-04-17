@@ -31,6 +31,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Connect Four 3D |
 | 1.0.x   | :white_check_mark: Pentomino |
 | 1.0.x   | :white_check_mark: TANGRAM |
+| 1.0.x   | :white_check_mark: Light Off |
 
 ## Reporting a Vulnerability
 

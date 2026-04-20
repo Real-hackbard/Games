@@ -35,6 +35,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Dungeon |
 | 1.0.x   | :white_check_mark: Tetraden Puzzle |
 | 1.0.x   | :white_check_mark: Puzzle Creator |
+| 1.0.x   | :white_check_mark: Puzzle Image |
 
 ## Reporting a Vulnerability
 

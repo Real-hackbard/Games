@@ -37,6 +37,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Puzzle Creator |
 | 1.0.x   | :white_check_mark: Puzzle Image |
 | 1.0.x   | :white_check_mark: Chess |
+| 1.0.x   | :white_check_mark: Arrow Slider |
 
 ## Reporting a Vulnerability
 

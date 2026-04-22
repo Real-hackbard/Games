@@ -38,6 +38,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Puzzle Image |
 | 1.0.x   | :white_check_mark: Chess |
 | 1.0.x   | :white_check_mark: Arrow Slider |
+| 1.0.x   | :white_check_mark: Kendoku |
 
 ## Reporting a Vulnerability
 

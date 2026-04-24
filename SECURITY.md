@@ -41,6 +41,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Kendoku |
 | 1.0.x   | :white_check_mark: Chain Reaction |
 | 1.0.x   | :white_check_mark: Tower of Hanoi |
+| 1.0.x   | :white_check_mark: BattleShip |
 
 ## Reporting a Vulnerability
 

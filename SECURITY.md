@@ -42,6 +42,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Chain Reaction |
 | 1.0.x   | :white_check_mark: Tower of Hanoi |
 | 1.0.x   | :white_check_mark: BattleShip |
+| 1.0.x   | :white_check_mark: Lights Off 2.0 |
 
 ## Reporting a Vulnerability
 

@@ -80,6 +80,7 @@ By 1961, MIT had acquired the DEC PDP-1 minicomputer, the successor to the TX-0,
 * [Chain Reaction](https://github.com/Real-hackbard/Games/tree/main/Chain%20Reaction)
 * [Tower of Hanoi](https://github.com/Real-hackbard/Games/tree/main/Tower%20of%20Hanoi)
 * [BattleShip](https://github.com/Real-hackbard/Games/tree/main/BattleShip)
+* [Lights Off 2.0](https://github.com/Real-hackbard/Games/tree/main/Lights%20Off%202.0)
 
 
 

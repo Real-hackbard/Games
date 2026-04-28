@@ -45,6 +45,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Lights Off 2.0 |
 | 1.0.x   | :white_check_mark: Guess Words |
 | 1.0.x   | :white_check_mark: Maze Collection |
+| 1.0.x   | :white_check_mark: Wythoff |
 
 ## Reporting a Vulnerability
 

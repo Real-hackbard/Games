@@ -46,6 +46,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Guess Words |
 | 1.0.x   | :white_check_mark: Maze Collection |
 | 1.0.x   | :white_check_mark: Wythoff |
+| 1.0.x   | :white_check_mark: Miner |
 
 ## Reporting a Vulnerability
 

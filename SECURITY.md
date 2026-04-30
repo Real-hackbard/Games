@@ -48,6 +48,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Wythoff |
 | 1.0.x   | :white_check_mark: Miner |
 | 1.0.x   | :white_check_mark: Tic-Tac-Toe |
+| 1.0.x   | :white_check_mark: Sudokubus |
 
 ## Reporting a Vulnerability
 

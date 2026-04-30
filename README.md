@@ -86,6 +86,7 @@ By 1961, MIT had acquired the DEC PDP-1 minicomputer, the successor to the TX-0,
 * [Wythoff](https://github.com/Real-hackbard/Games/tree/main/Wythoff)
 * [Miner](https://github.com/Real-hackbard/Games/tree/main/Miner)
 * [Tic-Tac-Toe](https://github.com/Real-hackbard/Games/tree/main/Tic-Tac-Toe)
+* [Sudokubus](https://github.com/Real-hackbard/Games/tree/main/Sudokubus)
 
 
 

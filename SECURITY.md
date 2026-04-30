@@ -47,6 +47,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Maze Collection |
 | 1.0.x   | :white_check_mark: Wythoff |
 | 1.0.x   | :white_check_mark: Miner |
+| 1.0.x   | :white_check_mark: Tic-Tac-Toe |
 
 ## Reporting a Vulnerability
 

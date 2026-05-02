@@ -51,6 +51,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Sudokubus |
 | 1.0.x   | :white_check_mark: Four wins |
 | 1.0.x   | :white_check_mark: Forklift |
+| 1.0.x   | :white_check_mark: Poker |
 
 ## Reporting a Vulnerability
 
